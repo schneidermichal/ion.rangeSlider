@@ -1,0 +1,12 @@
+{
+	"name": "ion/rangeSlider",
+	"type": "library",
+	"description": "Cool, comfortable and easily customizable range slider with many options and skin support",
+	"homepage": "http://ionden.com/a/plugins/ion.rangeSlider/en.html",
+	"authors": [
+		{
+			"name": "Denis Ineshin (IonDen)",
+			"homepage": "https://github.com/IonDen"
+		}
+	]
+}
