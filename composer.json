@@ -1,5 +1,5 @@
 {
-	"name": "ion/rangeSlider",
+	"name": "components/rangeSlider",
 	"type": "library",
 	"description": "Cool, comfortable and easily customizable range slider with many options and skin support",
 	"homepage": "http://ionden.com/a/plugins/ion.rangeSlider/en.html",
